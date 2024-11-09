@@ -20,7 +20,7 @@ public class TextBookDriver {
         
         System.out.print("Enter your name to enter the TextBook: ");
         String author = scnr.nextLine();
-        System.out.println(author + " Welcome to TextBook, the best text-social media site");
+        System.out.println(author + " Welcome to TextBook, the best text-social media site ");
         boolean quit = false;
         displayerMenu();
 
